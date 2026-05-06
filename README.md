@@ -44,7 +44,8 @@ I am a **CSE Student at Akdeniz University** based in **İstanbul, Turkey**. I'm
 ---
 
 ### 📫 Connect with me
-- **LinkedIn:** [İsmail Temüroğlu](https://www.linkedin.com/in/ismail-temuroglu) *(Check if your link is correct!)*
+- **LinkedIn:** [İsmail Temüroğlu](https://www.linkedin.com/in/ismail-temuroglu/)) *(Check if your link is correct!)*
+- **LinkedIn:** [İsmail Temüroğlu]() *(Check if your link is correct!)*
 - **Location:** İstanbul, Turkey 📍
 - **Education:** Akdeniz University 🎓
 
