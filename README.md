@@ -29,6 +29,21 @@ At Revlo AI I joined as one of the first engineers. Revlo makes software for hot
 
 ---
 
+### GitHub activity
+
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IsmailT04/IsmailT04/output/stats-dark.svg">
+    <img src="https://raw.githubusercontent.com/IsmailT04/IsmailT04/output/stats-light.svg" width="420" alt="GitHub activity: contributions in the last 12 months, streaks, public repos and stars">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IsmailT04/IsmailT04/output/languages-dark.svg">
+    <img src="https://raw.githubusercontent.com/IsmailT04/IsmailT04/output/languages-light.svg" width="420" alt="Top languages across public repos">
+  </picture>
+</p>
+
+---
+
 ### Stack
 
 **Day to day:** Go · TypeScript · Next.js · Python · FastAPI
