@@ -1,55 +1,43 @@
-# Hi there, I'm İsmail Temüroğlu! 👋
+# Hi, I'm İsmail Temüroğlu 👋
 
-### 🎯 Focusing on Computer Science & Engineering
-I am a **CSE Student at Akdeniz University** based in **İstanbul, Turkey**. I'm passionate about backend development, distributed systems, and building efficient tools using Go, Java, and C.
+Software engineer at **Revlo AI** in Antalya, Türkiye. I work mostly on backend, real-time and data systems. In my own time I write small versions of infrastructure, like databases and load balancers, to understand how they work.
 
----
-
-### 🛠️ Tech Stack & Skills
-
-- **Languages:** ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-- **Tools:** ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-- **Interests:** Load Balancing, Key-Value Stores, RPC Messaging, and OOP.
+🌐 **Portfolio:** [ismailt04.github.io](https://ismailt04.github.io) · 💼 **LinkedIn:** [ismail-temuroglu](https://www.linkedin.com/in/ismail-temuroglu/)
 
 ---
 
-### 🚀 Featured Projects
+### What I'm working on
 
-| Project | Description | Tech |
-| :--- | :--- | :--- |
-| **[GoLB](https://github.com/IsmailT04/GoLB)** | A high-performance Load Balancer built with Go. | Go |
-| **[GoKV](https://github.com/IsmailT04/GoKV)** | A simple and efficient Key-Value store implementation. | Go |
-| **[RPC_Messaging](https://github.com/IsmailT04/RPC_Messaging)** | Distributed messaging system using Remote Procedure Calls. | C |
-| **[Java_Projects](https://github.com/IsmailT04/Java_Projects)** | A collection of various Java-based implementations. | Java |
-| **[Hangman](https://github.com/IsmailT04/hangman)** | A milestone OOP project developed during my early learning stages. | Java |
+At Revlo AI I joined as one of the first engineers. Revlo makes software for hotels: guest messaging, review analysis, surveys and revenue management. I've worked on:
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IsmailT04&show_icons=true&theme=tokyonight" alt="IsmailT04's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsmailT04&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div>
+- **Voice and call center:** receiving calls from WhatsApp, phone lines and hotel websites, routing them to staff or an AI voice assistant, and analysing them afterwards
+- **Core backend and database:** on it since the first commit; real-time messaging for the shared inbox, and leading the migration to a new database
+- **Background jobs and AI analysis:** a job scheduler for recurring messages and webhooks, and AI analysis of guest reviews and surveys
+- **Marketing module:** ad performance reporting, budget planning and conversion tracking for hotel marketing teams
 
 ---
 
-### 🏆 Achievements
-![Quickdraw](https://img.shields.io/badge/Quickdraw-Achieved-gold?style=flat-square) 
-![Pull Shark](https://img.shields.io/badge/Pull%20Shark-x2-blue?style=flat-square) 
-![Pair Extraordinaire](https://img.shields.io/badge/Pair%20Extraordinaire-Achieved-purple?style=flat-square) 
-![YOLO](https://img.shields.io/badge/YOLO-Achieved-red?style=flat-square)
+### Side projects
+
+| Project | What it is |
+| :--- | :--- |
+| **[GoKV](https://github.com/IsmailT04/GoKV)** | Embedded key-value store with transactions, built on a copy-on-write B+ tree of 4 KB pages. Many readers alongside one writer, crash-safe by design. |
+| **[GoLB](https://github.com/IsmailT04/GoLB)** | Layer 7 load balancer with round-robin, weighted and least-connections strategies, health checks, a circuit breaker, Redis-backed rate limiting and caching, and Prometheus metrics. |
+| **[Autocomplete](https://github.com/IsmailT04/autocomplete)** | Turkish autocomplete over 1 million real words, comparing a sorted array, a trie and a radix tree, with correct Turkish lowercasing (İ → i, I → ı). |
+
+**From university:** [EON](https://github.com/IsmailT04/Programing-Language-Yacc), a small statically typed language written with Yacc/Lex as a team of four, and [RPC_Messaging](https://github.com/IsmailT04/RPC_Messaging), a messaging system over remote procedure calls in C.
 
 ---
 
-### 📫 Connect with me
-- **LinkedIn:** [İsmail Temüroğlu](https://www.linkedin.com/in/ismail-temuroglu/)) *(Check if your link is correct!)*
-- **LinkedIn:** [İsmail Temüroğlu]() *(Check if your link is correct!)*
-- **Location:** İstanbul, Turkey 📍
-- **Education:** Akdeniz University 🎓
+### Stack
+
+**Day to day:** Go · TypeScript · Next.js · Python · FastAPI
+**Also:** C# / .NET · Java · C · SQL · PostgreSQL · Redis · Docker · GitHub Actions · OpenTelemetry
 
 ---
-<p align="center">
-  <i>"Focusing on the next big challenge."</i>
-</p>
+
+### Background
+
+- 🎓 **B.Sc. Computer Engineering**, Akdeniz University (2026)
+- 📜 Google Advanced Data Analytics and Google Project Management certificates (Yapay Zeka ve Teknoloji Akademisi scholarship)
+- Before Revlo: Candidate Engineer at **Turkish Aerospace (TUSAŞ)** SKY program, Software Engineering Intern at **SAN TSG**
